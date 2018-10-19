@@ -1,2 +1,1 @@
-# erwinbierens.github.io
-Website
+# Bash-Bunny-Wiki
