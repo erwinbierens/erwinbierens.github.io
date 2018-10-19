@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 README
 ======
 
@@ -125,3 +126,6 @@ Update MDwiki
 1. Commit and push your changes
 
 You can now delete any files downloaded previously, if you want to.
+=======
+# Erwin Bierens-Wiki
+>>>>>>> 99ff2a2e692bb21cb263735b3c226122d6fbf6b9
