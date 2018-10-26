@@ -1,0 +1,76 @@
+/* Design inspiration from James Alexandre */
+/* Powered by Sebastian Kinne */
+
+.container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.container .info {
+    font-family: 'Roboto', sans-serif;
+    line-height: 17px;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+
+.container .info h1 {
+    font-size: 17px;
+    letter-spacing: 5px;
+    padding: 0;
+    margin: 0;
+    color: #333
+}
+
+.container .info h2 {
+    font-size: 13px;
+    line-height: 13px;
+    letter-spacing: 3px;
+    color: #999
+}
+
+.container .info h3 {
+    font-size: 12px;
+    line-height: 12px;
+    position: relative;
+    margin-top: 10px;
+    letter-spacing: 1px;
+    color: #666
+}
+
+@media only screen and (max-width: 480px) {
+    .container .info h1 {
+        font-size: 15px;
+    }
+    .container .info h2 {
+        font-size: 11px;
+    }
+    .container .info h3 {
+        font-size: 10px;
+    }
+}
+
+.container .info h3 a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.container .info h3 a:hover {
+    text-decoration: underline;
+}
+
+.container .icons a {
+    text-decoration: none;
+    margin: 5px;
+}
+
+.container .icons .img {
+    max-width: 30px;
+    max-height: 30px;
+}
+
+p.lowercase {
+    text-transform: lowercase;
+}
