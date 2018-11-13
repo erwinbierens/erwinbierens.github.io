@@ -3,7 +3,7 @@
 # erwinbierens.github.io
 This is my website published via github. 
 
-## check the website
+## Check my website
 You can reach my website via [git.erwinbierens.com](https://git.erwinbierens.com)
 
 ## License
