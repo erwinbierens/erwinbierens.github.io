@@ -6,6 +6,6 @@ This is my website published via github.
 ## Check my website
 You can reach my website via [git.erwinbierens.com](https://git.erwinbierens.com)
 
-## License
+## License MIT
 
 [MIT Licence](https://github.com/erwinbierens/erwinbierens.github.io/LICENSE)
