@@ -4,7 +4,7 @@
 This is my website published via github. 
 
 ## Check my website
-You can reach my website via [git.erwinbierens.com](https://git.erwinbierens.com)
+You can reach my website via [erwin.bierens.it](https://erwin.bierens.it)
 
 ## License MIT
 
