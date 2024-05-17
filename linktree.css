@@ -61,6 +61,8 @@ main {
     font-weight: 700;
     margin-bottom: 10px;
     color: white;
+    text-shadow: 2px 2px #000;
+    text-transform: uppercase;
 }
 
 .about {
@@ -70,6 +72,20 @@ main {
     color: white;
     text-align: center;
     padding: 0 10px;
+    
+}
+
+.icons {
+    text-decoration: none;
+    margin: 5px;
+}
+.icons a {
+    text-decoration: none;
+    margin: 5px;
+}
+.icons .img {
+    max-width: 30px;
+    max-height: 30px;
 }
 
 .links {
